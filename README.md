@@ -54,7 +54,6 @@ Bem-vindo ao GitHub oficial do **Grupo Felps Professional**. Este é o espaço d
   <img alt="Nginx" src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img alt="Coolify" src="https://img.shields.io/badge/Coolify-6B16ED?style=for-the-badge&logo=coolify&logoColor=white" />
 </div>
 
 ### Ferramentas & Ecossistema
